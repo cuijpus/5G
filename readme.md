@@ -19,7 +19,7 @@
 [5G黑科技真的来了！20公里外轻松开车](http://auto.sina.com.cn/j_kandian.d.html?docid=hmutuec2429258&subch=bauto&hpid=00042)<br>
 [5G无人机应用白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180928505068642359.pdf)<br>
 [5G时代十大应用场景白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/mbb/5g-unlocks-a-world-of-opportunities-cn.pdf?la=zh&source=corp_comm)<br>
-[5G时代十大应用场景白皮书2 ]([5G时代十大应用场景白皮书 ])<br>
+[5G时代十大应用场景白皮书2 ](https://wenku.baidu.com/view/4fc03bb70408763231126edb6f1aff00bed570a1.html?rec_flag=default&sxts=1543570680162)<br>
 
 # 运营商
 2018.6.27~29: [MWC2018直击：三大运营商纷纷发布5G白皮书，一场无声的5G战！（附白皮书下载） ](https://www.sdnlab.com/21012.html)<br>
