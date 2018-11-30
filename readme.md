@@ -50,6 +50,7 @@
 ## Nokia
 
 # 5G芯片
+2018.9.13 [华为、高通、英特尔、三星的5G调制解调芯片性能哪家强？](https://ee.ofweek.com/2018-09/ART-8500-2805-30265876.html)<br>
 2018.8.27 [5G商用在即！高通、华为、三星等全球五大5G芯片厂商进展如何？](https://baijiahao.baidu.com/s?id=1609945455399099968&wfr=spider&for=pc)<br>
 高通：骁龙855外挂骁龙X50<br>
 华为：麒麟1020内置巴龙5G01基带<br>
@@ -57,7 +58,7 @@
 三星Exynos Modem 5100基带芯片<br>
 
 [5G基带研发近况：高通三星Intel接连发布，仅剩华为沉默不言！](http://product.yesky.com/3c/tech/438/866458938.shtml)<br>
-2018.8.15 [三星发布首款全面符合最新标准的 5G 基带，2018 年年底见 ](https://www.leiphone.com/news/201808/ToyZ8JqcXAZtQDS6.html)<BR>
+2018.8.15 [三星发布首款全面符合最新标准的 5G 基带](https://www.samsung.com/semiconductor/insights/news-events/samsung-announces-exynos-modem-5100-industrys-first-5g-multi-mode-modem-fully-compliant-with-3gpp-standards/)<BR>
 2018.8.15 [三星发布全球首款符合3GPP的5G芯片！](https://wallstreetcn.com/articles/3388338)<br>
 三星这款5G基带芯片，名称为“Exynos Modem 5100”。小编了解到其所采用的是10纳米制程工艺；三星宣称，这是全球第一款完全符合3GPP R15 5G国际标准的5G基带芯片，其5G网络信号接收性能为：在低于6 GHz的频段，最大下载速率可达2 Gbps；在毫米波频段，最大下载速率可达6 Gbps。
 
