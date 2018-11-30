@@ -12,6 +12,7 @@
 ## 华为
 [5G已来 从eMBB走向万物互联的智能世界](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/5g)<br>
 [华为5G无线网络规划解决方案白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/white%20paper/2018/5g_wireless_network_planing_solution.pdf?la=zh&source=corp_comm)<br>
+2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
 
 
 
