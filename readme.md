@@ -42,6 +42,9 @@
 
 ## Nokia
 
+# 5G芯片
+[5G基带研发近况：高通三星Intel接连发布，仅剩华为沉默不言！](http://product.yesky.com/3c/tech/438/866458938.shtml)<br>
+
 
 
 # 5G 是什么？
