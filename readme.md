@@ -2,11 +2,15 @@
 # 行业动态/行业标准
 2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
 2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
+2018.7.23 [5G标准进展](https://wenku.baidu.com/view/5f63fa2cae1ffc4ffe4733687e21af45b307fef2.html)<br>
 2018.6.14 [3GPP R15 5G独立组网标准诞生](http://baijiahao.baidu.com/s?id=1603258038885888550&wfr=spider&for=pc)<br>
 2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
 国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
+2018.5.14 [5G标准投票联想错了?华为老兵揭露标准背后的故事](http://news.163.com/18/0514/16/DHPH2MA20001875N.html)<br>
 
 # 5G 业务
+典型业务：<br>
+![业务种类](https://wkretype.bdimg.com/retype/zoom/2ace540ca300a6c30c229fb3?pn=20&o=jpg_6&md5sum=d6641498a3561eace54b6ffe4ffdad25&sign=dc4ab2d7da&png=1387253-1563286&jpg=3334518-3540098)<br>
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
 
 # 运营商
