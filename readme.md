@@ -21,36 +21,26 @@
 [5G时代十大应用场景白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/mbb/5g-unlocks-a-world-of-opportunities-cn.pdf?la=zh&source=corp_comm)<br>
 [5G时代十大应用场景白皮书2 ](https://wenku.baidu.com/view/4fc03bb70408763231126edb6f1aff00bed570a1.html?rec_flag=default&sxts=1543570680162)<br>
 
+# 终端厂商
+2018.11.30 [研发再下一城 OPPO打通首个5G多人微信视频通话](https://baijiahao.baidu.com/s?id=1618532665058131090&wfr=spider&for=pc)<br>
+“5G对于OPPO来说是必然要抓住的趋势，除了力争成为首批推出5G手机的厂商，对5G+时代应用场景的探索将最终决定5G的价值。<br>
+2018.11.29 [vivo：5G研发进程加快 明年推5G预商用手机](http://mobile.163.com/18/1129/07/E1OU7GLB00118017.html)<br>
+
+
 # 运营商
 2018.11.30 [韩国三大运营商12月起正式商用5G服务](https://baijiahao.baidu.com/s?id=1618524753527031577&wfr=spider&for=pc)<br>
 2018.11.9 [中国移动2019年将推出5G手机 2020年计划5G商用](https://baijiahao.baidu.com/s?id=1616625910587529398&wfr=spider&for=pc)<br>
 2018.6.28 [中国联通发布5G部署计划计划2020年正式商用] (http://baijiahao.baidu.com/s?id=1604951112164536144&wfr=spider&for=pc)<br>
 2018.6.27~29: [MWC2018直击：三大运营商纷纷发布5G白皮书，一场无声的5G战！（附白皮书下载） ](https://www.sdnlab.com/21012.html)<br>
 
-# 通信巨头
-## 三星
-
+# 5G设备商
 2018.11.16 [三星为5G投资220亿美元 计划三年内至少占20%份额](https://baijiahao.baidu.com/s?id=1617281870871213220&wfr=spider&for=pc)<BR>
 2018.7.16 [三星谈5G网络设备发展目标：2020年前占据全球20%以上份额](http://tech.sina.com.cn/roll/2018-07-16/doc-ihfkffak6498786.shtml)<br>
 2017.11.24 [揭秘:一分钟看完三星5G布局](https://www.sohu.com/a/210393882_683779)<BR>
 
-
-
-## 高通 
-
-## 华为
 [5G已来 从eMBB走向万物互联的智能世界](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/5g)<br>
 [华为5G无线网络规划解决方案白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/white%20paper/2018/5g_wireless_network_planing_solution.pdf?la=zh&source=corp_comm)<br>
 2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
-
-## Nokia
-
-## 其它
-2018.11.30 [研发再下一城 OPPO打通首个5G多人微信视频通话](https://baijiahao.baidu.com/s?id=1618532665058131090&wfr=spider&for=pc)<br>
-“5G对于OPPO来说是必然要抓住的趋势，除了力争成为首批推出5G手机的厂商，对5G+时代应用场景的探索将最终决定5G的价值。<br>
-2018.11.29 [vivo：5G研发进程加快 明年推5G预商用手机](http://mobile.163.com/18/1129/07/E1OU7GLB00118017.html)<br>
-
-## Nokia
 
 # 5G芯片
 2018.9.13 [华为、高通、英特尔、三星的5G调制解调芯片性能哪家强？](https://ee.ofweek.com/2018-09/ART-8500-2805-30265876.html)<br>
