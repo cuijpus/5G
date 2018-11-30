@@ -69,4 +69,4 @@
 [5G移动通信系统和技术](https://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.html?rec_flag=default&sxts=1543559041066)<br>
 [5G行业发展现状及产业链分析（附5G行业分析报告）](http://www.sohu.com/a/255623809_772730)<br>
 [细而全的 5G 通讯产业链](https://baijiahao.baidu.com/s?id=1616265025737683540&wfr=spider&for=pc)<br>
-
+[2017年热点：5G产业链解析](https://www.douban.com/note/639095213/?type=like)<br>
