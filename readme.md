@@ -73,3 +73,6 @@
 [5G行业发展现状及产业链分析（附5G行业分析报告）](http://www.sohu.com/a/255623809_772730)<br>
 [细而全的 5G 通讯产业链](https://baijiahao.baidu.com/s?id=1616265025737683540&wfr=spider&for=pc)<br>
 [2017年热点：5G产业链解析](https://www.douban.com/note/639095213/?type=like)<br>
+
+# 研报
+[huawei行业洞察](https://www.huawei.com/cn/industry-insights)<br>
