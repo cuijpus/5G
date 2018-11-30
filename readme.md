@@ -18,6 +18,7 @@
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
 
 # 运营商
+2018.6.27~29: [MWC2018直击：三大运营商纷纷发布5G白皮书，一场无声的5G战！（附白皮书下载） ](https://www.sdnlab.com/21012.html)<br>
 
 # 通信巨头
 ## 三星
