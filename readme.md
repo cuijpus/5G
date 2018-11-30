@@ -1,5 +1,6 @@
 
 # 5G 业务
+[构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
 
 # 运营商
 
