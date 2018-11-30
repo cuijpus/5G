@@ -14,7 +14,10 @@
 [华为5G无线网络规划解决方案白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/white%20paper/2018/5g_wireless_network_planing_solution.pdf?la=zh&source=corp_comm)<br>
 2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
 
+## Nokia
 
+## 其它
+[研发再下一城 OPPO打通首个5G多人微信视频通话](https://baijiahao.baidu.com/s?id=1618532665058131090&wfr=spider&for=pc)<br>
 
 ## Nokia
 
