@@ -3,6 +3,7 @@
 # 5G 业务
 典型业务：<br>
 ![业务种类](https://wkretype.bdimg.com/retype/zoom/2ace540ca300a6c30c229fb3?pn=20&o=jpg_6&md5sum=d6641498a3561eace54b6ffe4ffdad25&sign=dc4ab2d7da&png=1387253-1563286&jpg=3334518-3540098)<br>
+[CloudVR解决方案.实践报告(2018)](https://www-file.huawei.com/-/media/corporate/pdf/ilab/2018/cloud_vr_solutions_practice_report_2018_cn_v1.pdf?source=corp_comm)<br>
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
 2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
 [5G黑科技真的来了！20公里外轻松开车](http://auto.sina.com.cn/j_kandian.d.html?docid=hmutuec2429258&subch=bauto&hpid=00042)<br>
