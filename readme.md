@@ -28,10 +28,6 @@
 ## 三星
 
 2018.11.16 [三星为5G投资220亿美元 计划三年内至少占20%份额](https://baijiahao.baidu.com/s?id=1617281870871213220&wfr=spider&for=pc)<BR>
-2018.8.15 [三星发布全球首款符合3GPP的5G芯片！](https://wallstreetcn.com/articles/3388338)<br>
-
-三星这款5G基带芯片，名称为“Exynos Modem 5100”。小编了解到其所采用的是10纳米制程工艺；三星宣称，这是全球第一款完全符合3GPP R15 5G国际标准的5G基带芯片，其5G网络信号接收性能为：在低于6 GHz的频段，最大下载速率可达2 Gbps；在毫米波频段，最大下载速率可达6 Gbps。
-
 2018.7.16 [三星谈5G网络设备发展目标：2020年前占据全球20%以上份额](http://tech.sina.com.cn/roll/2018-07-16/doc-ihfkffak6498786.shtml)<br>
 2017.11.24 [揭秘:一分钟看完三星5G布局](https://www.sohu.com/a/210393882_683779)<BR>
 
@@ -62,7 +58,8 @@
 
 [5G基带研发近况：高通三星Intel接连发布，仅剩华为沉默不言！](http://product.yesky.com/3c/tech/438/866458938.shtml)<br>
 2018.8.15 [三星发布首款全面符合最新标准的 5G 基带，2018 年年底见 ](https://www.leiphone.com/news/201808/ToyZ8JqcXAZtQDS6.html)<BR>
-
+2018.8.15 [三星发布全球首款符合3GPP的5G芯片！](https://wallstreetcn.com/articles/3388338)<br>
+三星这款5G基带芯片，名称为“Exynos Modem 5100”。小编了解到其所采用的是10纳米制程工艺；三星宣称，这是全球第一款完全符合3GPP R15 5G国际标准的5G基带芯片，其5G网络信号接收性能为：在低于6 GHz的频段，最大下载速率可达2 Gbps；在毫米波频段，最大下载速率可达6 Gbps。
 
 # 5G 是什么？
 [5G到底是什么？这篇文章给你讲清楚](http://m.elecfans.com/article/633545.html)<br>
