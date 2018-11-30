@@ -2,7 +2,7 @@
 # 行业动态/行业标准
 2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
 2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
-2018.6.14 3GPP R15 5G独立组网标准诞生<br>
+2018.6.14 [3GPP R15 5G独立组网标准诞生](http://baijiahao.baidu.com/s?id=1603258038885888550&wfr=spider&for=pc)<br>
 2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
 国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
 
@@ -35,4 +35,5 @@
 [5G到底是什么？这篇文章给你讲清楚](http://m.elecfans.com/article/633545.html)<br>
 1G.模拟 -->2G.txt --> 3G.jpg --> 4G.avi --> 5G.IoT<br>
 ![演进](http://sy0.img.pcpop.com/article/0/24/24369.jpg_p-730x550)<br>
+中国在移动通信领域经历了1G空白、2G跟随、3G突破、4G同步的发展，如今有望成为5G时代的领跑者之一。
 ![5G性能](http://file.elecfans.com/web1/M00/52/9B/pIYBAFsV-L-AF4YlAAC4L-Nbc3U732.jpg)<br>
