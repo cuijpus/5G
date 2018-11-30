@@ -1,16 +1,4 @@
 
-# 行业动态/行业标准
-2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
-2018.10.8 [阿里、腾讯、百度都在布局5G，为什么说百度要更领先一步](阿里、腾讯、百度都在布局5G，为什么说百度要更领先一步)<br>
-5G会助推边缘计算。<br>
-
-2018.9.28 [中国5G技术研发试验第三阶段测试结果出炉：华为继续领跑](https://baijiahao.baidu.com/s?id=1612821371698311314&wfr=spider&for=pc)<br>
-2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
-2018.7.23 [5G标准进展](https://wenku.baidu.com/view/5f63fa2cae1ffc4ffe4733687e21af45b307fef2.html)<br>
-2018.6.14 [3GPP R15 5G独立组网标准诞生](http://baijiahao.baidu.com/s?id=1603258038885888550&wfr=spider&for=pc)<br>
-2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
-国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
-2018.5.14 [5G标准投票联想错了?华为老兵揭露标准背后的故事](http://news.163.com/18/0514/16/DHPH2MA20001875N.html)<br>
 
 # 5G 业务
 典型业务：<br>
@@ -54,6 +42,19 @@
 2018.8.15 [三星发布首款全面符合最新标准的 5G 基带](https://www.samsung.com/semiconductor/insights/news-events/samsung-announces-exynos-modem-5100-industrys-first-5g-multi-mode-modem-fully-compliant-with-3gpp-standards/)<BR>
 2018.8.15 [三星发布全球首款符合3GPP的5G芯片！](https://wallstreetcn.com/articles/3388338)<br>
 三星这款5G基带芯片，名称为“Exynos Modem 5100”。小编了解到其所采用的是10纳米制程工艺；三星宣称，这是全球第一款完全符合3GPP R15 5G国际标准的5G基带芯片，其5G网络信号接收性能为：在低于6 GHz的频段，最大下载速率可达2 Gbps；在毫米波频段，最大下载速率可达6 Gbps。
+
+# 5G标准
+2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
+2018.10.8 [阿里、腾讯、百度都在布局5G，为什么说百度要更领先一步](阿里、腾讯、百度都在布局5G，为什么说百度要更领先一步)<br>
+5G会助推边缘计算。<br>
+
+2018.9.28 [中国5G技术研发试验第三阶段测试结果出炉：华为继续领跑](https://baijiahao.baidu.com/s?id=1612821371698311314&wfr=spider&for=pc)<br>
+2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
+2018.7.23 [5G标准进展](https://wenku.baidu.com/view/5f63fa2cae1ffc4ffe4733687e21af45b307fef2.html)<br>
+2018.6.14 [3GPP R15 5G独立组网标准诞生](http://baijiahao.baidu.com/s?id=1603258038885888550&wfr=spider&for=pc)<br>
+2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
+国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
+2018.5.14 [5G标准投票联想错了?华为老兵揭露标准背后的故事](http://news.163.com/18/0514/16/DHPH2MA20001875N.html)<br>
 
 # 5G 是什么？
 [5G到底是什么？这篇文章给你讲清楚](http://m.elecfans.com/article/633545.html)<br>
