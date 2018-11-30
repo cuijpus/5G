@@ -41,3 +41,5 @@
 ![演进](http://sy0.img.pcpop.com/article/0/24/24369.jpg_p-730x550)<br>
 中国在移动通信领域经历了1G空白、2G跟随、3G突破、4G同步的发展，如今有望成为5G时代的领跑者之一。
 ![5G性能](http://file.elecfans.com/web1/M00/52/9B/pIYBAFsV-L-AF4YlAAC4L-Nbc3U732.jpg)<br>
+
+[5G移动通信系统和技术](https://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.html?rec_flag=default&sxts=1543559041066)<br>
