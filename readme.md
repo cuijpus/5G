@@ -9,6 +9,7 @@
 [5G无人机应用白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180928505068642359.pdf)<br>
 [5G时代十大应用场景白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/mbb/5g-unlocks-a-world-of-opportunities-cn.pdf?la=zh&source=corp_comm)<br>
 [5G时代十大应用场景白皮书2 ](https://wenku.baidu.com/view/4fc03bb70408763231126edb6f1aff00bed570a1.html?rec_flag=default&sxts=1543570680162)<br>
+2017.11 [《CG类Cloud VR技术规范（草案）》](https://www-file.huawei.com/-/media/corporate/pdf/white%20paper/cg-cloud-vr-technical-specifications-cn.pdf?la=zh&source=corp_comm)<br>
 
 
 # 终端厂商
