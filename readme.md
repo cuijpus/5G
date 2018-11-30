@@ -4,6 +4,7 @@
 典型业务：<br>
 ![业务种类](https://wkretype.bdimg.com/retype/zoom/2ace540ca300a6c30c229fb3?pn=20&o=jpg_6&md5sum=d6641498a3561eace54b6ffe4ffdad25&sign=dc4ab2d7da&png=1387253-1563286&jpg=3334518-3540098)<br>
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
+2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
 [5G黑科技真的来了！20公里外轻松开车](http://auto.sina.com.cn/j_kandian.d.html?docid=hmutuec2429258&subch=bauto&hpid=00042)<br>
 [5G无人机应用白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180928505068642359.pdf)<br>
 [5G时代十大应用场景白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/mbb/5g-unlocks-a-world-of-opportunities-cn.pdf?la=zh&source=corp_comm)<br>
@@ -32,7 +33,7 @@
 
 [5G已来 从eMBB走向万物互联的智能世界](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/5g)<br>
 [华为5G无线网络规划解决方案白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/white%20paper/2018/5g_wireless_network_planing_solution.pdf?la=zh&source=corp_comm)<br>
-2018.3.30 [华为完成业界首个5G Cloud VR POC验证，并成立CG Cloud VR/AR特别兴趣组](http://gad.qq.com/article/detail/41498)<br>
+
 
 # 5G芯片
 2018.9.13 [华为、高通、英特尔、三星的5G调制解调芯片性能哪家强？](https://ee.ofweek.com/2018-09/ART-8500-2805-30265876.html)<br>
