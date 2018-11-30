@@ -17,6 +17,7 @@
 ## Nokia
 
 # 行业标准 
+2018.6.14 3GPP R15 5G独立组网标准诞生<br>
 
 # 5G 是什么？
 [5G到底是什么？这篇文章给你讲清楚](http://m.elecfans.com/article/633545.html)<br>
