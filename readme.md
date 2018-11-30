@@ -30,7 +30,7 @@
 # 运营商
 2018.11.30 [韩国三大运营商12月起正式商用5G服务](https://baijiahao.baidu.com/s?id=1618524753527031577&wfr=spider&for=pc)<br>
 2018.11.9 [中国移动2019年将推出5G手机 2020年计划5G商用](https://baijiahao.baidu.com/s?id=1616625910587529398&wfr=spider&for=pc)<br>
-2018.6.28 [中国联通发布5G部署计划计划2020年正式商用] (http://baijiahao.baidu.com/s?id=1604951112164536144&wfr=spider&for=pc)<br>
+2018.6.28 [中国联通发布5G部署计划计划2020年正式商用](http://baijiahao.baidu.com/s?id=1604951112164536144&wfr=spider&for=pc)<br>
 2018.6.27~29: [MWC2018直击：三大运营商纷纷发布5G白皮书，一场无声的5G战！（附白皮书下载） ](https://www.sdnlab.com/21012.html)<br>
 
 # 5G设备商
