@@ -1,4 +1,11 @@
 
+# 行业动态/行业标准
+2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
+2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
+2018.6.14 3GPP R15 5G独立组网标准诞生<br>
+2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
+国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
+
 # 5G 业务
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
 
@@ -22,10 +29,7 @@
 
 ## Nokia
 
-# 行业标准 
-2018.6.14 3GPP R15 5G独立组网标准诞生<br>
-2018.5.25 [5G标准确立！是中国主导吗？这才是真相](http://news.mydrivers.com/1/583/583522.htm)<br>
-国际移动通信标准化组织3GPP工作组在韩国釜山召开了5G第一阶段标准制定的最后一场会议，会议确定了3GPPR15标准的全部内容。<br>
+
 
 # 5G 是什么？
 [5G到底是什么？这篇文章给你讲清楚](http://m.elecfans.com/article/633545.html)<br>
