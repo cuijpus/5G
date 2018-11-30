@@ -1,6 +1,7 @@
 
 # 行业动态/行业标准
 2018年11月28-29日，第六届全球5G大会在巴西里约热内卢召开<br>
+2018.9.28 [中国5G技术研发试验第三阶段测试结果出炉：华为继续领跑](https://baijiahao.baidu.com/s?id=1612821371698311314&wfr=spider&for=pc)<br>
 2018.7.29 [5G第一阶段标准尘埃落定，中国到底处于什么地位？](https://baijiahao.baidu.com/s?id=1607296027875989226&wfr=spider&for=pc)<br>
 2018.7.23 [5G标准进展](https://wenku.baidu.com/view/5f63fa2cae1ffc4ffe4733687e21af45b307fef2.html)<br>
 2018.6.14 [3GPP R15 5G独立组网标准诞生](http://baijiahao.baidu.com/s?id=1603258038885888550&wfr=spider&for=pc)<br>
