@@ -17,7 +17,8 @@
 ## Nokia
 
 ## 其它
-[研发再下一城 OPPO打通首个5G多人微信视频通话](https://baijiahao.baidu.com/s?id=1618532665058131090&wfr=spider&for=pc)<br>
+2018.11.30 [研发再下一城 OPPO打通首个5G多人微信视频通话](https://baijiahao.baidu.com/s?id=1618532665058131090&wfr=spider&for=pc)<br>
+“5G对于OPPO来说是必然要抓住的趋势，除了力争成为首批推出5G手机的厂商，对5G+时代应用场景的探索将最终决定5G的价值。<br>
 
 ## Nokia
 
