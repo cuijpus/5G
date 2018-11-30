@@ -26,6 +26,7 @@
 
 # 5G设备商
 2018.11.16 [三星为5G投资220亿美元 计划三年内至少占20%份额](https://baijiahao.baidu.com/s?id=1617281870871213220&wfr=spider&for=pc)<BR>
+2018.10.10 [5G产业链到底进行到哪一步了？ ](http://www.eefocus.com/communication/422407/r0)<br>
 2018.7.16 [三星谈5G网络设备发展目标：2020年前占据全球20%以上份额](http://tech.sina.com.cn/roll/2018-07-16/doc-ihfkffak6498786.shtml)<br>
 2017.11.24 [揭秘:一分钟看完三星5G布局](https://www.sohu.com/a/210393882_683779)<BR>
 
