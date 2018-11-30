@@ -16,9 +16,10 @@
 典型业务：<br>
 ![业务种类](https://wkretype.bdimg.com/retype/zoom/2ace540ca300a6c30c229fb3?pn=20&o=jpg_6&md5sum=d6641498a3561eace54b6ffe4ffdad25&sign=dc4ab2d7da&png=1387253-1563286&jpg=3334518-3540098)<br>
 [构建"瘦终端、宽管道、云应用"新业务模式，迎接 Cloud AR/VR诞生 ](https://www.huawei.com/cn/industry-insights/outlook/mobile-broadband/insights-reports/cloud-vr-ar-roundtable)<br>
-
 [5G黑科技真的来了！20公里外轻松开车](http://auto.sina.com.cn/j_kandian.d.html?docid=hmutuec2429258&subch=bauto&hpid=00042)<br>
 [5G无人机应用白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180928505068642359.pdf)<br>
+[5G时代十大应用场景白皮书 ](https://www-file.huawei.com/-/media/corporate/pdf/mbb/5g-unlocks-a-world-of-opportunities-cn.pdf?la=zh&source=corp_comm)<br>
+[5G时代十大应用场景白皮书2 ]([5G时代十大应用场景白皮书 ])<br>
 
 # 运营商
 2018.6.27~29: [MWC2018直击：三大运营商纷纷发布5G白皮书，一场无声的5G战！（附白皮书下载） ](https://www.sdnlab.com/21012.html)<br>
