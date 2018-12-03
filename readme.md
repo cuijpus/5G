@@ -20,6 +20,7 @@
 
 
 # 运营商
+2018.12.1 [韩国率先实现5G商用 或在2020年完成全覆盖](https://baijiahao.baidu.com/s?id=1618640488676254521&wfr=spider&for=pc)<BR>
 2018.11.30 [韩国三大运营商12月起正式商用5G服务](https://baijiahao.baidu.com/s?id=1618524753527031577&wfr=spider&for=pc)<br>
 2018.11.9 [中国移动2019年将推出5G手机 2020年计划5G商用](https://baijiahao.baidu.com/s?id=1616625910587529398&wfr=spider&for=pc)<br>
 2018.7.29 [大汇总！全球运营商5G部署计划与最新进展](https://baijiahao.baidu.com/s?id=1607329899525046103&wfr=spider&for=pc)<br>
